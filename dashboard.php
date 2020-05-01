@@ -22,7 +22,7 @@ $result = $conn->query($sql);
 	include_once("header.php");
 ?>
 	<div id="catgeory_div">
-		<a href="add_actegory.php"><button type="button">Add Category....>></button></a>
+		<a href="add_actegory.php"><button type="button">Add Category....>s</button></a>
 		<a href="add_product.php"><button type="button" style=" margin-left: 4%;">Add Product</button></a>
 	</div>
 	<div id="datatabe_dashboard">
