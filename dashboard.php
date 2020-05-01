@@ -23,7 +23,7 @@ $result = $conn->query($sql);
 ?>
 	<div id="catgeory_div">
 		<a href="add_actegory.php"><button type="button">Add Category....></button></a>
-		<a href="add_product.php"><button type="button" style=" margin-left: 4%;">Add Product</button></a>
+		<a href="add_product.php"><button type="button" style=" margin-left: 4%;">Add Products</button></a>
 	</div>
 	<div id="datatabe_dashboard">
 		<table id="example" class="table table-striped table-bordered" style="width:100%">
